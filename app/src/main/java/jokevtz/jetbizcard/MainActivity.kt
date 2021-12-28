@@ -141,7 +141,7 @@ fun Portfolio(data: List<String>) {
                         .align(alignment = Alignment.CenterVertically))
                     {
                         Text(text = item, fontWeight = FontWeight.Bold)
-                        Text(text = "Name of education, and decription",
+                        Text(text = "Name of education and description",
                             style = MaterialTheme.typography.body2)
                     }
                 }
